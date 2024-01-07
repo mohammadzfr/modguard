@@ -19,7 +19,7 @@ Bundled with Webpack
 
 # Usage
 
-When you load web pages, NSFW Filter will first hide all images and only show those classified as safe.
+When you load web pages, ModGuard will first hide all images and only show those classified as safe.
 
 You can also change the tolerance of the filter to make it more or less strict
 
