@@ -22,7 +22,8 @@
     "checkJs": false,
     "jsx": "react",
     "esModuleInterop": true,
-    "downlevelIteration": true
+    "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true,
   },
   "include": ["src/"],
   "exclude": ["node_modules/", "dist/", "test/"]
