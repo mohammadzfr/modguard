@@ -59,7 +59,7 @@ export const Production: React.FC = () => {
         </Select>
       </DropdownRow>
 
-      <DropdownRow>
+      <Stats>
         <span>Using MobileNet_v1.2</span>
         {/* <Select
           defaultValue={trainedModel}
@@ -68,7 +68,7 @@ export const Production: React.FC = () => {
         >
           <Option value={trainedModel}>{trainedModel}</Option>
         </Select> */}
-      </DropdownRow>
+      </Stats>
 
       <div>Whitelisted websites</div>
       <TextBox>
