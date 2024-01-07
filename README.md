@@ -10,8 +10,6 @@ Built using TypeScript, TensorFlow.js, and [NSFWJS](https://github.com/infiniter
 
 Bundled with Webpack
 
-![Demo of ModGuard](demo/images/demo.gif)
-
 # Table of contents
 
 - [ModGuard](#modguard)
